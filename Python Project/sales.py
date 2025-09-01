@@ -1,7 +1,7 @@
 import streamlit as st 
 from streamlit_lottie import st_lottie
 import json
-
+#hi
 # Set page configuration with the prediction icon
 st.set_page_config(
     page_title=" Sales Prediction",
